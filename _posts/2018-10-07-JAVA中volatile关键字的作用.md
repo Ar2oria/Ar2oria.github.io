@@ -15,6 +15,7 @@ tags:
 参考：
 
 [Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
+
 [正确使用 Volatile 变量](https://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
 
 ## 简介
